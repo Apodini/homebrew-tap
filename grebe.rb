@@ -9,6 +9,6 @@ class Grebe < Formula
         "--product", "Grebe-CLI",
         "--configuration", "release",
         "--disable-sandbox"
-    bin.install '.build/release/Grebe-CLI'
+    bin.install '.build/release/grebe'
   end
 end
