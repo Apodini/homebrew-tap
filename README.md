@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew packages for Garden
+Homebrew packages for Apodini
