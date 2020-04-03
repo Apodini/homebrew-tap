@@ -1,8 +1,8 @@
 class Grebe < Formula
   desc "Simplifies the gRPC-Swift development workflow."
   homepage "https://github.com/Apodini/Grebe"
-  url "https://github.com/Apodini/Grebe/archive/1.0.0.tar.gz"
-  sha256 "911b36788ea1a2eada8cf56d77b0c2c8c39df5515da8c43dee8dbd62aa75e66e"
+  url "https://github.com/Apodini/Grebe/archive/0.0.1.tar.gz"
+  sha256 "edd2e376170734329fd661b323e1deca15098d74d28d09f52d231740312e4d4c"
   
   def install
     system "swift", "build",
